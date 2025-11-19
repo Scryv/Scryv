@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on: **Portfolio Site**
 - 🌱 I’m learning: **C, Python, SQL, Linux customization**
 - 💡 Interests: **Programming, music, playing my guitar**
-- 💬 Ask me about: **Arch Linux, C, Python**
+- 💬 Ask me about: **Linux, C, Python**
 - ⚡ Fun fact: **I use Arch btw**
 
 ---
