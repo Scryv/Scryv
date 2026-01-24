@@ -1,5 +1,6 @@
 ## 🧑‍💻 About Me  
 -  I’m currently working on: **Portfolio Site**
+-  studying for: DevOps engeneer / junior linux
 -  Fun fact: **I use Void btw**
 
 # 💻 Tech Stack:
