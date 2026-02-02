@@ -1,4 +1,5 @@
 ## 🧑‍💻 About Me  
+<h1>Hello Im Scryv <img src="https://komarev.com/ghpvc/?username=scryv&label=Profile%20views&color=262626&style=for-the-badge" alt="scryv"/></h1
 -  I’m currently working on: **Portfolio Site**
 -  studying for: **DevOps engeneer / junior linux**
 -  Fun fact: **I use Void btw**
