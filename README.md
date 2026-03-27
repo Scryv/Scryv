@@ -2,7 +2,6 @@
 <h1>Hello Im Scryv <img src="https://komarev.com/ghpvc/?username=scryv&label=Profile%20views&color=262626&style=for-the-badge" alt="scryv"/></h1>
 
 -  I’m currently working on: **Learning my techstack by making projects**
--  studying for: **DevOps Engineer / junior linux / Systems**
 -  Fun fact: **I use Void btw**
 -  My git instance: https://git.sdgscryv.xyz/Scryv
 
