@@ -3,8 +3,6 @@
 
 -  I’m currently working on: **Learning my techstack by making projects**
 -  Fun fact: **I use Arch btw**
--  My git instance: https://git.sdgscryv.xyz/Scryv
-
 
 
 
