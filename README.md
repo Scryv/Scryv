@@ -1,4 +1,4 @@
-## 🧑‍💻 About Me  
+## About Me  
 <h1>Hello Im Scryv <img src="https://komarev.com/ghpvc/?username=scryv&label=Profile%20views&color=262626&style=for-the-badge" alt="scryv"/></h1>
 
 -  I’m currently working on: **Learning my techstack by making projects**
@@ -6,7 +6,7 @@
 
 
 
-# 💻 Tech Stack im learning:
+# Tech Stack im learning:
 ### Languages
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
